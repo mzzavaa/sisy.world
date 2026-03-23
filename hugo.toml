@@ -1,0 +1,12 @@
+baseURL = "https://sisy.world/"
+languageCode = "en-us"
+title = "SISY — Get Discovered as an Expert"
+
+[params]
+  description = "SISY connects women experts with the stages, opportunities, and audiences they deserve. Create your expert profile, get matched with events, and build the visibility your expertise has earned."
+  tagline = "Get discovered as an expert. Speak on stages that matter."
+  waitlistURL = "#waitlist"
+  organizerURL = "#organizer"
+
+[markup.goldmark.renderer]
+  unsafe = true
