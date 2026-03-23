@@ -1,6 +1,6 @@
 # sisy.world
 
-The main SISY platform landing page. Built with [Hugo](https://gohugo.io/) — no theme, layouts only.
+The main SISY platform landing page. Built with [Hugo](https://gohugo.io/) - no theme, layouts only.
 
 **Live site:** [https://sisy.world](https://sisy.world)
 **Notion:** https://www.notion.so/32b81018ea0381a6a304c2d80ed423dc
