@@ -1,0 +1,4 @@
+# Redirect-only domain — no content to index here.
+# All canonical content is at https://sisy.social/
+User-agent: *
+Disallow: /
